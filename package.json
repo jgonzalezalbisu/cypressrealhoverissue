@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jgonzalezalbisu/cypressrealhoverissue#readme",
   "devDependencies": {
-    "cypress": "8.3.1"
+    "cypress": "8.3.1",
+    "cypress-real-events": "1.5.1"
   }
 }
